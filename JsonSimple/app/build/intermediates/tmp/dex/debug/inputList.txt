@@ -1,0 +1,5 @@
+/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/classes/debug
+/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-92d0b6457b70c0fd69862c12f9557b4ae89bf240.jar
+/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-f787a5557cc083408291aba0f0703a4964cf9c5b.jar
+/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/classes-d94a83ca39a5666fdf58c3dd111bc2550aaa4b1b.jar
+/home/osdevlab/Dropbox/Personal/AndroidProject/SimpleFragmentTutorial/app/build/intermediates/pre-dexed/debug/classes-ea9a127107825903a4434bef3a1d75bfc7f59660.jar
